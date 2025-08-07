@@ -1,1 +1,1 @@
-This is a project for The Odin Project. It is part of their foundations course and will cover HTML.
+This is a project for The Odin Project. It is part of their foundations course and will cover HTML. This particular website is based on recipes and some practice using the html tags etc. I was able to memorize and use the html boilerplate as well as the tags. 
